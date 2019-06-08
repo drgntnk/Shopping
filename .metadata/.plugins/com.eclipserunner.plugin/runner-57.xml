@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category expanded="true" name="カテゴリーなし">
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="DbConnect"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="SampleDao"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="_WEB-INF_classes_websample11_DbConnect.java"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="ローカルホスト の Tomcat9 (Java11)"/>
+</category>
+</runner>

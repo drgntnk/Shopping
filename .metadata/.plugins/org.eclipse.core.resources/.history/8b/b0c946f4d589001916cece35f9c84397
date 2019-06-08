@@ -1,0 +1,22 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class Connect {
+
+	public static  void main(String[] args) {
+		Connection con = null;
+
+		try {
+			//JDBCドライバのロード
+			Class.forName("com.mysql.cj.jdbc.Driver");
+
+			//DBと接続
+			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/shimak?serverTimezone=JST",
+					  "root",
+					  "letmein31");
+
+
+		}
+	}
+
+}
